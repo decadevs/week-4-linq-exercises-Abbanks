@@ -1,0 +1,180 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ZBOOK 14U G6\\Visual Studio Projects\\repos\\Week4Task\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1E5196D0-449E-42AC-9F46-2F7361D8F368}|Week4Task.csproj|c:\\users\\zbook 14u g6\\visual studio projects\\repos\\week4task\\task2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E5196D0-449E-42AC-9F46-2F7361D8F368}|Week4Task.csproj|solutionrelative:task2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E5196D0-449E-42AC-9F46-2F7361D8F368}|Week4Task.csproj|c:\\users\\zbook 14u g6\\visual studio projects\\repos\\week4task\\task1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E5196D0-449E-42AC-9F46-2F7361D8F368}|Week4Task.csproj|solutionrelative:task1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E5196D0-449E-42AC-9F46-2F7361D8F368}|Week4Task.csproj|c:\\users\\zbook 14u g6\\visual studio projects\\repos\\week4task\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E5196D0-449E-42AC-9F46-2F7361D8F368}|Week4Task.csproj|solutionrelative:item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E5196D0-449E-42AC-9F46-2F7361D8F368}|Week4Task.csproj|c:\\users\\zbook 14u g6\\visual studio projects\\repos\\week4task\\group.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E5196D0-449E-42AC-9F46-2F7361D8F368}|Week4Task.csproj|solutionrelative:group.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E5196D0-449E-42AC-9F46-2F7361D8F368}|Week4Task.csproj|c:\\users\\zbook 14u g6\\visual studio projects\\repos\\week4task\\sales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E5196D0-449E-42AC-9F46-2F7361D8F368}|Week4Task.csproj|solutionrelative:sales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E5196D0-449E-42AC-9F46-2F7361D8F368}|Week4Task.csproj|c:\\users\\zbook 14u g6\\visual studio projects\\repos\\week4task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E5196D0-449E-42AC-9F46-2F7361D8F368}|Week4Task.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E5196D0-449E-42AC-9F46-2F7361D8F368}|Week4Task.csproj|c:\\users\\zbook 14u g6\\visual studio projects\\repos\\week4task\\task3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E5196D0-449E-42AC-9F46-2F7361D8F368}|Week4Task.csproj|solutionrelative:task3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E5196D0-449E-42AC-9F46-2F7361D8F368}|Week4Task.csproj|c:\\users\\zbook 14u g6\\visual studio projects\\repos\\week4task\\state.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E5196D0-449E-42AC-9F46-2F7361D8F368}|Week4Task.csproj|solutionrelative:state.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E5196D0-449E-42AC-9F46-2F7361D8F368}|Week4Task.csproj|c:\\users\\zbook 14u g6\\visual studio projects\\repos\\week4task\\statecategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E5196D0-449E-42AC-9F46-2F7361D8F368}|Week4Task.csproj|solutionrelative:statecategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Group.cs",
+              "DocumentMoniker": "C:\\Users\\ZBOOK 14U G6\\Visual Studio Projects\\repos\\Week4Task\\Group.cs",
+              "RelativeDocumentMoniker": "Group.cs",
+              "ToolTip": "C:\\Users\\ZBOOK 14U G6\\Visual Studio Projects\\repos\\Week4Task\\Group.cs",
+              "RelativeToolTip": "Group.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T23:20:24.375Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "StateCategory.cs",
+              "DocumentMoniker": "C:\\Users\\ZBOOK 14U G6\\Visual Studio Projects\\repos\\Week4Task\\StateCategory.cs",
+              "RelativeDocumentMoniker": "StateCategory.cs",
+              "ToolTip": "C:\\Users\\ZBOOK 14U G6\\Visual Studio Projects\\repos\\Week4Task\\StateCategory.cs",
+              "RelativeToolTip": "StateCategory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T23:10:33.86Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Task3.cs",
+              "DocumentMoniker": "C:\\Users\\ZBOOK 14U G6\\Visual Studio Projects\\repos\\Week4Task\\Task3.cs",
+              "RelativeDocumentMoniker": "Task3.cs",
+              "ToolTip": "C:\\Users\\ZBOOK 14U G6\\Visual Studio Projects\\repos\\Week4Task\\Task3.cs",
+              "RelativeToolTip": "Task3.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T22:47:30.746Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Task2.cs",
+              "DocumentMoniker": "C:\\Users\\ZBOOK 14U G6\\Visual Studio Projects\\repos\\Week4Task\\Task2.cs",
+              "RelativeDocumentMoniker": "Task2.cs",
+              "ToolTip": "C:\\Users\\ZBOOK 14U G6\\Visual Studio Projects\\repos\\Week4Task\\Task2.cs",
+              "RelativeToolTip": "Task2.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAABEAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T22:45:33.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Sales.cs",
+              "DocumentMoniker": "C:\\Users\\ZBOOK 14U G6\\Visual Studio Projects\\repos\\Week4Task\\Sales.cs",
+              "RelativeDocumentMoniker": "Sales.cs",
+              "ToolTip": "C:\\Users\\ZBOOK 14U G6\\Visual Studio Projects\\repos\\Week4Task\\Sales.cs",
+              "RelativeToolTip": "Sales.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T21:57:28.851Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Item.cs",
+              "DocumentMoniker": "C:\\Users\\ZBOOK 14U G6\\Visual Studio Projects\\repos\\Week4Task\\Item.cs",
+              "RelativeDocumentMoniker": "Item.cs",
+              "ToolTip": "C:\\Users\\ZBOOK 14U G6\\Visual Studio Projects\\repos\\Week4Task\\Item.cs",
+              "RelativeToolTip": "Item.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T21:48:31.122Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Task1.cs",
+              "DocumentMoniker": "C:\\Users\\ZBOOK 14U G6\\Visual Studio Projects\\repos\\Week4Task\\Task1.cs",
+              "RelativeDocumentMoniker": "Task1.cs",
+              "ToolTip": "C:\\Users\\ZBOOK 14U G6\\Visual Studio Projects\\repos\\Week4Task\\Task1.cs",
+              "RelativeToolTip": "Task1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T21:45:43.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "State.cs",
+              "DocumentMoniker": "C:\\Users\\ZBOOK 14U G6\\Visual Studio Projects\\repos\\Week4Task\\State.cs",
+              "RelativeDocumentMoniker": "State.cs",
+              "ToolTip": "C:\\Users\\ZBOOK 14U G6\\Visual Studio Projects\\repos\\Week4Task\\State.cs",
+              "RelativeToolTip": "State.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T20:06:43.978Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ZBOOK 14U G6\\Visual Studio Projects\\repos\\Week4Task\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\ZBOOK 14U G6\\Visual Studio Projects\\repos\\Week4Task\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T19:05:17.469Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
