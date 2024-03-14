@@ -60,30 +60,4 @@
 }
 
 
-/*var groupJoinn = groupList.GroupJoin(stateCategory,
-                        g => g.GroupId,
-                        s => s.GroupId,
-                        (g, stateGroup) => new
-                        {
-                            //StateCategory = string.Join(", ", stateGroup.Select(state => state.Name)),
-                            states = stateGroup,
-                            GroupId = g.GroupName,
-                            GroupCount = stateGroup.Count()
-                        });
-
-
-foreach (var item in groupJoinn)
-{
-    Console.WriteLine($"{item.GroupId} - {item.GroupCount}");
-    var statesCount = item.states.Count();
-    foreach (var state in item.states)
-    {
-        Console.Write(state.Name);
-        if (statesCount > 1)
-        {
-            Console.Write(", ");
-            statesCount--;
-        }
-    }
-    Console.WriteLine();
-}*/
+ 
